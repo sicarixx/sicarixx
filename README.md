@@ -1,5 +1,6 @@
 ### Hi, I’m @sicarixx... 
 **Don't try to know who I am, I don't know either.**
+_"The quieter you become, the more you are able to hear"_
 
 <!---
 sicarixx/sicarixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
